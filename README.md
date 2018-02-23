@@ -7,6 +7,13 @@ Trabalho de Conclusão de Curso apresentado ao Curso de Informática do IFRN Cam
 * Mariana Camila
 
 ## Resultados:
+
+* [Vídeo do trabalho](https://www.youtube.com/watch?v=fNHkWkUJ4Ds)
+
+* Imagens:
+
 ![MaoRelaxada](https://i.imgur.com/oAhW180.png)
 
 ![MaoContraida](https://i.imgur.com/i6f8Nr4.png)
+
+
